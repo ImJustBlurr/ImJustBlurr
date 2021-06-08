@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ImJustBlurr
+- 👀 I’m interested in innovation!
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on projects that people can use day-to-day

@@ -23,7 +23,7 @@ I've been coding for over 4 years now. I found my love for coding in an AP Java 
                     </p>
                     
 
-Socials
+### Socials
                   
 <p align="left"> <a href="https://www.github.com/ImJustBlurr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCSfrCNCaWX0PVzDY-1CiW4w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/blurr_val" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 

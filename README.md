@@ -1,4 +1,4 @@
-Hi 👋 My name is Blurr
+Hi 👋 My name is Tariq
 ======================
 
 Software Engineer
@@ -6,7 +6,7 @@ Software Engineer
 
 I've been coding for over 4 years now. I found my love for coding in an AP Java class in High School and ever since then I have enjoyed creating projects for people to use and enjoy.
 
-*   🌍  I'm based in the US
+*   🌍  I'm based in Florida
 *   🧠  I'm learning Python Scripting
 
 ### Skills

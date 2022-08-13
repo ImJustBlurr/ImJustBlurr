@@ -7,7 +7,7 @@ Software Engineer
 I've been coding for over 4 years now. I found my love for coding in an AP Java class in High School and ever since then I have enjoyed creating projects for people to use and enjoy.
 
 *   🌍  I'm based in Florida
-*   🧠  I'm learning Python Scripting
+*   🧠  I'm learning AWS
 
 ### Skills
 <p align="left">

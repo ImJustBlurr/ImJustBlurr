@@ -1,4 +1,4 @@
-Hi 👋 My name is Tariq
+Hi 👋 My name is Blurr
 ======================
 
 Software Engineer

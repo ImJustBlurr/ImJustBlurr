@@ -7,7 +7,7 @@ Software Engineer
 I've been coding since I was 15 years old. I found my love for coding in an AP Java class in High School and ever since then I have enjoyed creating projects for people to use and enjoy.
 
 *   🌍  I'm based in Florida
-*   🧠  I'm learning AWS
+*   🧠  I'm learning Tailwind CSS
 
 ### Skills
 <p align="left">

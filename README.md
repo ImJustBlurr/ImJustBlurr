@@ -3,7 +3,7 @@
 I'm a full stack developer based in the USA! I've always had a passion for programming and here's the best place to see my work!
 
 
-# Hi, I'm Blurr! 👋
+# Hi, I'm Tariq! 👋
 
 
 ## 🔗 Links

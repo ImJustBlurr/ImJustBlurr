@@ -1,5 +1,5 @@
 # Hey there! I'm Tariq 👋
----
+
 ### 🔎 Where can you find me?
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/ImJustBlurr/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/tariqmohamed1105)
 

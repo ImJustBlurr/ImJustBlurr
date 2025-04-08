@@ -6,7 +6,7 @@
 ### 👨‍💻 Who am I?
 I'm a recent computer science graduate with a love for creating impactful software. I enjoy backend development, and am venturing out to building full-stack applications (keep an eye out 😉).
 
-### 🛠 What's my tech stack?
+### 🛠 What technologies do I use?
 With my time at SWE internships and personal projects I have picked up quite a technologies, but I find myself gravitating towards:
 - Python
 - C#
